@@ -11,6 +11,15 @@ public class Ejercicio14_GYL {
 		//horas o menos se le paga $16 por hora. Si trabaja más de 40 horas se le paga $16 por cada una de las 
 		//primeras 40 horas y $20 por cada hora extra
 		
+		int salario;
+		int multi;
+		
+		Scanner entrada=new Scanner(System.in);
+		System.out.println("Ingrese las horas trabajadas: ");
+		salario=entrada.nextInt();
+		
+		
+		
 		
 		
 	}
