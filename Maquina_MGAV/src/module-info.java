@@ -1,0 +1,2 @@
+module Maquina_MGAV {
+}
